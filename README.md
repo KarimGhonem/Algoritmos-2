@@ -1,2 +1,2 @@
-# Algortmos-2
+# Algoritmos-2
 3rd Semester
